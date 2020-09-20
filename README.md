@@ -26,4 +26,4 @@ Liubov | Gent
 
 ---
 
-[Link](./README.md)
+[Link](./readme.md)

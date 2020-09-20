@@ -24,12 +24,6 @@ Atinos | Walonia
 Peyman | Mechelen
 Liubov | Gent
 
-Sharaf - From Pakistan 31 years old, 
-Moon - From Vietnam doing masters, about to graduate soon. Worked as a teacher New to coding. 
-Atinos - From Uganda, New to coding.Her friend introducted her to the course and she took up the challenge.
-Peyman - Found about hackyourfuture in an article. Lives in Mechelen, He dreams to create an online store.
-Liubov - Comes from Russia, living in Belgium. Learning Dutch. IT was her old dream, worked in IT related business but as a managerial role.
-
 ---
 
 [Link](./README.md)
